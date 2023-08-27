@@ -1,0 +1,4 @@
+#Sun Aug 27 17:47:24 EET 2023
+base.0=/Users/aymankamal/Desktop/flutter_projects/quiz_app1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

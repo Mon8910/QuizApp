@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "388ba6d6a1c615218962c3709946348bfd5865337a69a9c0a527ec06dd01f899"
+build_start_time: [1692795826, 243061065]
+build_end_time: [1692795827, 26504039]
+inputs:
+  "/Users/aymankamal/Desktop/flutter_projects/quiz_app1/macos/Flutter/GeneratedPluginRegistrant.swift": [1692795821, 441126823]
+  "/Users/aymankamal/Desktop/flutter_projects/quiz_app1/macos/Runner/AppDelegate.swift": [1686141052, 0]
+  "/Users/aymankamal/Desktop/flutter_projects/quiz_app1/macos/Runner/MainFlutterWindow.swift": [1686141052, 0]
